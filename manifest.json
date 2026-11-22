@@ -1,13 +1,4 @@
-{
-  "name": "FURCRAFT - Kalkulator Pločastog Materijala",
-  "short_name": "FURCRAFT",
-  "description": "Kalkulator utroška i cene pločastog materijala",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#0f172a",
-  "orientation": "any",
-  "icons": [
+"icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
@@ -27,4 +18,3 @@
       "purpose": "maskable"
     }
   ]
-}
